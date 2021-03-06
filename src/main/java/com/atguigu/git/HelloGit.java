@@ -1,25 +1,13 @@
 package com.atguigu.git;
 public class HelloGit {
 	public static void main(String[] args) {
-<<<<<<< HEAD
-
-		System.out.println("Hello Git!");
-		System.out.println("¸üÐÂ1");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("Ö÷¸ÉÌí¼Ó");
-		System.out.println("·ÖÖ§Ìí¼Ó");		
-		System.out.println("µÚ¶þ´Î¸üÐÂÖ®Ç°");}
-		}
-
-=======
-
 		System.out.println("Hello Git!");
 		System.out.println("æ›´æ–°1");
 		System.out.println("åˆ›å»ºåˆ†æ”¯");
 		System.out.println("ä¸»å¹²æ·»åŠ ");
 		System.out.println("åˆ†æ”¯æ·»åŠ ");		
-		System.out.println("åœ¨çº¿æ›´æ–°");}
+		System.out.println("ç¬¬äºŒæ¬¡æ·»åŠ ä¹‹å‰");
+		}
 		}
 
->>>>>>> branch 'master' of https://github.com/luyayang/testGit.git
 

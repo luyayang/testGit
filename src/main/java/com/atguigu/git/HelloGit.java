@@ -8,14 +8,14 @@ public class HelloGit {
 		System.out.println("分支添加");		
 		System.out.println("第二次添加之前");
 		System.out.println("在线更新");
-	
+	}
+}
 
 
 
-		}
 
 
 
 
->>>>>>> branch 'master' of https://github.com/luyayang/testGit.git
+
 
